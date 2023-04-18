@@ -93,6 +93,6 @@ Andrei Florea
 
 
 
-- ANDREI FLOREA - Initial work - Git Hub Profile
+ ANDREI FLOREA - Initial work - Git Hub Profile
 
-- Challenge 17 | Computer Science for JavaScript Challenge: Regex Tutorial
+ Challenge 17 | Computer Science for JavaScript Challenge: Regex Tutorial
